@@ -11,6 +11,6 @@ The district summary changed because the total number of students decreased from
 Thomas High School Complete Data
 ![image](https://user-images.githubusercontent.com/88783255/133934460-c3b16626-11ea-4c5c-b05e-effc034251eb.png)
 Thomas High School (9th Grade Removed)
-![image](https://user-images.githubusercontent.com/88783255/133934491-5a2b8931-be04-4145-b2f3-e1c43ad7a245.png)
+![image](https://user-images.githubusercontent.com/88783255/133934548-04950ba2-9b6d-481a-b63b-8f1855cb52d4.png)
 
 ## Summary
