@@ -8,7 +8,9 @@ After updating the data to replace the Thomas High School 9th graders' reading a
 
 ### District Summary and School Summary Changes
 The district summary changed because the total number of students decreased from 39,170 to 38,709 because we removed the 461 9th graders from Thomas High School. The school summary also changed because the Thomas High School average scores were adjusted to remove the 9th graders. 
+Thomas High School Complete Data
+![image](https://user-images.githubusercontent.com/88783255/133934460-c3b16626-11ea-4c5c-b05e-effc034251eb.png)
+Thomas High School (9th Grade Removed)
+![image](https://user-images.githubusercontent.com/88783255/133934491-5a2b8931-be04-4145-b2f3-e1c43ad7a245.png)
 
 ## Summary
-
-![image](https://user-images.githubusercontent.com/88783255/133934460-c3b16626-11ea-4c5c-b05e-effc034251eb.png)
