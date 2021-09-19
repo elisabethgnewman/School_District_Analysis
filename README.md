@@ -6,5 +6,7 @@ The purpose of the School District Analysis was to help a city's school system's
 ## Results
 After updating the data to replace the Thomas High School 9th graders' reading and math scores with NaNs, we reran the district analysis.
 
-### District Summary
-The district summary changed 
+### District Summary and School Summary Changes
+The district summary changed because the total number of students decreased from 39,170 to 38,709 because we removed the 461 9th graders from Thomas High School. The school summary also changed because the Thomas High School average scores were adjusted to remove the 9th graders. 
+
+## Summary
