@@ -24,4 +24,4 @@ After removing the scores for the 9th graders at Thomas High School, the school 
 ![image](https://user-images.githubusercontent.com/88783255/133936778-8f4c87fa-5ada-4dbe-a383-8dbe73584f20.png)
 
 ## Summary
-By removing the Thomas High School 9th graders' scores, their average scores decrease. This makes sense because we were told that there was a data integrity issue with the grades we removed, so they were likely inflating the average.
+By removing the Thomas High School 9th graders' scores, their average scores decrease. This makes sense because we were told that there was a data integrity issue with the grades we removed, so they were likely inflating the average. This challenge showed us the importance of data integrity and different ways of cleaning the data through Python code. This challenge was quite comprehensive and covered a lot of material that will be useful throughout this course.
